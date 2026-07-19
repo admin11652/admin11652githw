@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Hello"
+echo "main branch"
 echo "Version 2"
 date
