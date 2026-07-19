@@ -1,4 +1,4 @@
 #!/bin/bash
-echo "Hello"
+echo "conflict branch"
 echo "Version 2"
 date
