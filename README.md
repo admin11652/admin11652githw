@@ -3,7 +3,7 @@ hello world this is a new
 
 file
 best
-
+https://github.com/admin11652/admin11652githw/commit/58ad27ef72283a3413f98944aee1c1e31afd3aff
 ### Инструкция по выполнению домашнего задания
 
    1. Сделайте `fork` данного репозитория к себе в Github и переименуйте его по названию или номеру занятия, например, https://github.com/имя-вашего-репозитория/git-hw или  https://github.com/имя-вашего-репозитория/7-1-ansible-hw).
